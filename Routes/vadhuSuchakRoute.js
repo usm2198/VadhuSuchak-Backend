@@ -1,4 +1,4 @@
-const {getVadhuSuchak,postVadhuSuchak,putVadhuSuchak,deleteVadhuSuchak} = require('../Controllers.js/vadhuSuchakController')
+const {getVadhuSuchak,postVadhuSuchak,putVadhuSuchak,deleteVadhuSuchak} = require('../Controller/vadhuSuchakController')
 
 const route = require('express').Router()
 
